@@ -1,3 +1,6 @@
+
+https://github.com/bennettsf/dog-data/assets/33855430/351cc56e-92d2-4bb9-8d17-96d3ab16fbcd
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
